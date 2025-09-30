@@ -1,4 +1,16 @@
 body{
     font-family: helvetica, arial, sans-serif;	color:#000099;
-    background-color:#FFFFCC;
+    background-color:#bbff00;
+}
+
+nav {
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial;
+}
+
+nav {
+  font-family: Arial;
 }
